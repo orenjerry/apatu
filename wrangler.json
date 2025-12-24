@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "apatu",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "65c47afe-2821-46d4-8f0d-bb8c3acadf08",
+			"database_name": "test"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
